@@ -10,7 +10,7 @@ This system aims to simplify parking management for users and administrators, en
 - User-friendly interface
 
 ## Team Members
-** TEAM OFFLINE
+  TEAM OFFLINE
 - Ayman Angitaopan
 - Britzil Baldovi
 - Jan Cristoffel Uy
