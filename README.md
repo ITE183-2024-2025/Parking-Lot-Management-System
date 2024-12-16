@@ -1,6 +1,10 @@
 # Parking Lot Management System
 **A Simple Solution for Easy Parking**
 
+🔴 Add Project Code 
+<br>
+🔴 Add Project Video
+
 ## About the Project
 This system aims to simplify parking management for users and administrators, ensuring a seamless parking experience.
 
