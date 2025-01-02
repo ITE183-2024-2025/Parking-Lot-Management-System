@@ -17,7 +17,7 @@ This system aims to simplify parking management for users and administrators, en
   TEAM OFFLINE
 - Ayman Angitaopan
 - Britzil Baldovi
-- Jan Cristoffel Uy
+- Jan Christoffel Uy
 - Mary Jane Felomino
 - Salmairah Balt
 - Yusoph H.Ali
